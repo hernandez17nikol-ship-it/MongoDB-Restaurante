@@ -1,0 +1,1782 @@
+[{
+  "_id": {
+    "$oid": "69228b8b086a894b16e13ce8"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-11-04T00:00:00.000Z"
+  },
+  "hora": "18:30",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228baa086a894b16e13cec"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228bb5086a894b16e13cee"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-11-12T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228bc2086a894b16e13cf0"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-11-14T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228bd3086a894b16e13cf2"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-11-16T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 7,
+  "estado": "cancelada",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "69228bde086a894b16e13cf4"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-11-18T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228beb086a894b16e13cf6"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "hora": "18:45",
+  "personas": 6,
+  "estado": "confirmada",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228bf6086a894b16e13cf8"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-11-22T00:00:00.000Z"
+  },
+  "hora": "17:00",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228c08086a894b16e13cfa"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-11-23T00:00:00.000Z"
+  },
+  "hora": "19:15",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228c1f086a894b16e13cfc"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-11-24T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228c28086a894b16e13cfe"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-11-26T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228c34086a894b16e13d00"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "hora": "19:45",
+  "personas": 5,
+  "estado": "cancelada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228c44086a894b16e13d02"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "hora": "18:30",
+  "personas": 1,
+  "estado": "confirmada",
+  "cantidad_personas": 1
+},
+{
+  "_id": {
+    "$oid": "69228c4f086a894b16e13d04"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228c60086a894b16e13d06"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "hora": "17:15",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228c6c086a894b16e13d08"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228c77086a894b16e13d0a"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "hora": "20:15",
+  "personas": 7,
+  "estado": "pendiente",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "69228c82086a894b16e13d0c"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "hora": "16:45",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228c90086a894b16e13d0e"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 8,
+  "estado": "pendiente",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228cad086a894b16e13d10"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "hora": "18:20",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228cbe086a894b16e13d12"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "hora": "17:10",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228cc7086a894b16e13d14"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 6,
+  "estado": "cancelada",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228cd1086a894b16e13d16"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228cdb086a894b16e13d18"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228ce4086a894b16e13d1a"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "hora": "17:20",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228cef086a894b16e13d1c"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "hora": "19:00",
+  "personas": 7,
+  "estado": "pendiente",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "69228cf8086a894b16e13d1e"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "hora": "20:45",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228d00086a894b16e13d20"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-13T00:00:00.000Z"
+  },
+  "hora": "17:45",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228d0d086a894b16e13d22"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "hora": "19:50",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228d39086a894b16e13d24"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "hora": "18:40",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228d42086a894b16e13d26"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-16T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228d4b086a894b16e13d28"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-17T00:00:00.000Z"
+  },
+  "hora": "19:10",
+  "personas": 4,
+  "estado": "cancelada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228d55086a894b16e13d2a"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-18T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 1,
+  "estado": "pendiente",
+  "cantidad_personas": 1
+},
+{
+  "_id": {
+    "$oid": "69228d5f086a894b16e13d2c"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-19T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 6,
+  "estado": "confirmada",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228d70086a894b16e13d2e"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-20T00:00:00.000Z"
+  },
+  "hora": "17:50",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228d79086a894b16e13d30"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-21T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228d82086a894b16e13d32"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "hora": "20:20",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228d8c086a894b16e13d34"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-23T00:00:00.000Z"
+  },
+  "hora": "17:10",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228d96086a894b16e13d36"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-24T00:00:00.000Z"
+  },
+  "hora": "19:40",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228dbd086a894b16e13d38"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228e9e086a894b16e13d3a"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-26T00:00:00.000Z"
+  },
+  "hora": "17:20",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228eb1086a894b16e13d3c"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-27T00:00:00.000Z"
+  },
+  "hora": "20:10",
+  "personas": 2,
+  "estado": "cancelada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228eb9086a894b16e13d3e"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-28T00:00:00.000Z"
+  },
+  "hora": "18:45",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228ec2086a894b16e13d40"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-29T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228ecb086a894b16e13d42"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-30T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228ed2086a894b16e13d44"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "17:40",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228edb086a894b16e13d46"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "19:00",
+  "personas": 8,
+  "estado": "pendiente",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228ee8086a894b16e13d48"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "20:30",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228ef1086a894b16e13d4a"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "21:00",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228f52086a894b16e13d4c"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-11-05T00:00:00.000Z"
+  },
+  "hora": "18:15",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228f5b086a894b16e13d4e"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-11-06T00:00:00.000Z"
+  },
+  "hora": "19:00",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228f64086a894b16e13d50"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-11-08T00:00:00.000Z"
+  },
+  "hora": "20:30",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228f73086a894b16e13d52"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-11-09T00:00:00.000Z"
+  },
+  "hora": "18:50",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228f7a086a894b16e13d54"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-11-11T00:00:00.000Z"
+  },
+  "hora": "19:10",
+  "personas": 2,
+  "estado": "cancelada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228f82086a894b16e13d56"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-11-13T00:00:00.000Z"
+  },
+  "hora": "20:40",
+  "personas": 7,
+  "estado": "confirmada",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "69228f8d086a894b16e13d58"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-11-15T00:00:00.000Z"
+  },
+  "hora": "17:20",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228f98086a894b16e13d5a"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-11-17T00:00:00.000Z"
+  },
+  "hora": "18:55",
+  "personas": 6,
+  "estado": "confirmada",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228f9e086a894b16e13d5c"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-11-19T00:00:00.000Z"
+  },
+  "hora": "20:00",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228fa7086a894b16e13d5e"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-11-21T00:00:00.000Z"
+  },
+  "hora": "19:45",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69228fc6086a894b16e13d60"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "hora": "18:10",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69228fce086a894b16e13d62"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "hora": "19:20",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69228fd6086a894b16e13d64"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "hora": "20:50",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69228fde086a894b16e13d66"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "hora": "17:40",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69228fe6086a894b16e13d68"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "hora": "19:40",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69228ff1086a894b16e13d6a"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "hora": "20:10",
+  "personas": 7,
+  "estado": "confirmada",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "69228ff8086a894b16e13d6c"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "hora": "17:45",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69229001086a894b16e13d6e"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "hora": "18:30",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "69229008086a894b16e13d70"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "hora": "20:25",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69229010086a894b16e13d72"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "hora": "19:15",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "6922902d086a894b16e13d74"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "hora": "18:25",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69229038086a894b16e13d76"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "hora": "17:15",
+  "personas": 2,
+  "estado": "confirmada",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69229040086a894b16e13d78"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-13T00:00:00.000Z"
+  },
+  "hora": "20:35",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "69229048086a894b16e13d7a"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "hora": "18:50",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69229053086a894b16e13d7c"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "hora": "19:55",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "6922905e086a894b16e13d7e"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-16T00:00:00.000Z"
+  },
+  "hora": "20:20",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "69229069086a894b16e13d80"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-17T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "69229072086a894b16e13d82"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-18T00:00:00.000Z"
+  },
+  "hora": "18:45",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "6922907a086a894b16e13d84"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-19T00:00:00.000Z"
+  },
+  "hora": "20:40",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "69229081086a894b16e13d86"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-20T00:00:00.000Z"
+  },
+  "hora": "19:35",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69229092086a894b16e13d88"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-20T00:00:00.000Z"
+  },
+  "hora": "19:35",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "69229099086a894b16e13d8a"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "hora": "19:00",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "692291698d69db984f07d1c6"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-23T00:00:00.000Z"
+  },
+  "hora": "20:25",
+  "personas": 6,
+  "estado": "pendiente",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "6922916f8d69db984f07d1c8"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-24T00:00:00.000Z"
+  },
+  "hora": "18:30",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "692291758d69db984f07d1ca"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-25T00:00:00.000Z"
+  },
+  "hora": "19:45",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "692291808d69db984f07d1cc"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-26T00:00:00.000Z"
+  },
+  "hora": "17:30",
+  "personas": 7,
+  "estado": "confirmada",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "692291898d69db984f07d1ce"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-27T00:00:00.000Z"
+  },
+  "hora": "20:10",
+  "personas": 4,
+  "estado": "pendiente",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "692291918d69db984f07d1d0"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-28T00:00:00.000Z"
+  },
+  "hora": "18:45",
+  "personas": 8,
+  "estado": "confirmada",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "692291998d69db984f07d1d2"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-29T00:00:00.000Z"
+  },
+  "hora": "19:50",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "692291a28d69db984f07d1d4"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-30T00:00:00.000Z"
+  },
+  "hora": "20:15",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "692291b88d69db984f07d1d6"
+  },
+  "cliente_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "mesa_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "18:00",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "692291be8d69db984f07d1d8"
+  },
+  "cliente_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "mesa_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "19:30",
+  "personas": 3,
+  "estado": "pendiente",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "692291c48d69db984f07d1da"
+  },
+  "cliente_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "mesa_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "20:20",
+  "personas": 6,
+  "estado": "confirmada",
+  "cantidad_personas": 6
+},
+{
+  "_id": {
+    "$oid": "692291ce8d69db984f07d1dc"
+  },
+  "cliente_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "mesa_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "21:10",
+  "personas": 2,
+  "estado": "pendiente",
+  "cantidad_personas": 2
+},
+{
+  "_id": {
+    "$oid": "692291d48d69db984f07d1de"
+  },
+  "cliente_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "mesa_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "17:45",
+  "personas": 5,
+  "estado": "confirmada",
+  "cantidad_personas": 5
+},
+{
+  "_id": {
+    "$oid": "692291db8d69db984f07d1e0"
+  },
+  "cliente_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "mesa_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "18:40",
+  "personas": 7,
+  "estado": "pendiente",
+  "cantidad_personas": 7
+},
+{
+  "_id": {
+    "$oid": "692291e28d69db984f07d1e2"
+  },
+  "cliente_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "mesa_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "19:55",
+  "personas": 4,
+  "estado": "confirmada",
+  "cantidad_personas": 4
+},
+{
+  "_id": {
+    "$oid": "692291e88d69db984f07d1e4"
+  },
+  "cliente_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "mesa_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "21:00",
+  "personas": 8,
+  "estado": "pendiente",
+  "cantidad_personas": 8
+},
+{
+  "_id": {
+    "$oid": "692291f08d69db984f07d1e6"
+  },
+  "cliente_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "mesa_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "20:45",
+  "personas": 3,
+  "estado": "confirmada",
+  "cantidad_personas": 3
+},
+{
+  "_id": {
+    "$oid": "692291f88d69db984f07d1e8"
+  },
+  "cliente_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "mesa_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "fecha": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "hora": "22:00",
+  "personas": 5,
+  "estado": "pendiente",
+  "cantidad_personas": 5
+}]

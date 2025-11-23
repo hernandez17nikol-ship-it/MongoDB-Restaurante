@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "69227c97086a894b16e13cab"
+  },
+  "nombre": "Laura Gómez",
+  "telefono": "3100000000",
+  "email": "laura@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227ccf086a894b16e13cad"
+  },
+  "nombre": "Carlos Pérez",
+  "telefono": "3009876543",
+  "email": "carlos@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227cdd086a894b16e13caf"
+  },
+  "nombre": "Ana Torres",
+  "telefono": "3124567890",
+  "email": "ana@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227ecf086a894b16e13cbf"
+  },
+  "nombre": "Sofia Ramirez",
+  "telefono": "3157894321",
+  "email": "sofia@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227ee1086a894b16e13cc1"
+  },
+  "nombre": "Jorge Castillo",
+  "telefono": "3112349988",
+  "email": "jorge@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227ef1086a894b16e13cc3"
+  },
+  "nombre": "Mariana Ruiz",
+  "telefono": "3187654321",
+  "email": "mariana@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227f00086a894b16e13cc5"
+  },
+  "nombre": "Daniel Herrera",
+  "telefono": "3001122334",
+  "email": "daniel@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227f0c086a894b16e13cc7"
+  },
+  "nombre": "Paula Sánchez",
+  "telefono": "3224455667",
+  "email": "paula@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227f1e086a894b16e13cc9"
+  },
+  "nombre": "Felipe Mendoza",
+  "telefono": "3209988776",
+  "email": "felipe@unad.com"
+},
+{
+  "_id": {
+    "$oid": "69227f2e086a894b16e13ccb"
+  },
+  "nombre": "Valentina Ortiz",
+  "telefono": "3017766554",
+  "email": "valentina@unad.com"
+}]

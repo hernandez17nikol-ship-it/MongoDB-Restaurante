@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "69227d21086a894b16e13cb4"
+  },
+  "numero_mesa": 1,
+  "capacidad": 2,
+  "ubicacion": "Interior"
+},
+{
+  "_id": {
+    "$oid": "69227d33086a894b16e13cb6"
+  },
+  "numero_mesa": 2,
+  "capacidad": 4,
+  "ubicacion": "Interior"
+},
+{
+  "_id": {
+    "$oid": "69227d3e086a894b16e13cb8"
+  },
+  "numero_mesa": 3,
+  "capacidad": 6,
+  "ubicacion": "Exterior"
+},
+{
+  "_id": {
+    "$oid": "69227d64086a894b16e13cba"
+  },
+  "numero_mesa": 4,
+  "capacidad": 4,
+  "ubicacion": "Terraza"
+},
+{
+  "_id": {
+    "$oid": "69227f42086a894b16e13cce"
+  },
+  "numero_mesa": 5,
+  "capacidad": 2,
+  "ubicacion": "Exterior"
+},
+{
+  "_id": {
+    "$oid": "69227f4c086a894b16e13cd0"
+  },
+  "numero_mesa": 6,
+  "capacidad": 4,
+  "ubicacion": "Interior"
+},
+{
+  "_id": {
+    "$oid": "69227f60086a894b16e13cd3"
+  },
+  "numero_mesa": 7,
+  "capacidad": 6,
+  "ubicacion": "Terraza"
+},
+{
+  "_id": {
+    "$oid": "69227f6e086a894b16e13cd5"
+  },
+  "numero_mesa": 8,
+  "capacidad": 2,
+  "ubicacion": "Interior"
+},
+{
+  "_id": {
+    "$oid": "69227f7d086a894b16e13cd7"
+  },
+  "numero_mesa": 9,
+  "capacidad": 8,
+  "ubicacion": "Salón privado"
+},
+{
+  "_id": {
+    "$oid": "69227f8a086a894b16e13cd9"
+  },
+  "numero_mesa": 10,
+  "capacidad": 4,
+  "ubicacion": "Exterior"
+},
+{
+  "_id": {
+    "$oid": "69235ee727e0d4ae4fb8c130"
+  },
+  "numero_mesa": 11,
+  "capacidad": 4,
+  "ubicacion": "Interior"
+}]
